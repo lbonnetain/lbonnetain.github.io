@@ -14,7 +14,7 @@ author: Loïc BONNETAIN
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Articles: "Articles"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -44,7 +44,7 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
+  #patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -76,7 +76,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
